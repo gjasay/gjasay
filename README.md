@@ -8,11 +8,11 @@ I'm Gabe and I'm passionate about developing fast-paced, action-packed experienc
 
 ### 📝 Check out my latest blog posts,
 <!-- BLOG-POST-LIST:START -->
-- [Unity Editor’s Stages and Scenes](https://samuelarminana.com/index.php/2020/09/28/unity-editors-stages-and-scenes/)
-- [How to Integrate Trello and Discord](https://samuelarminana.com/index.php/2020/01/22/how-to-integrate-trello-and-discord/)
-- [Designing an Educational Game](https://samuelarminana.com/index.php/2019/11/12/designing-an-educational-game/)
-- [Releasing your Buggy Code to the Wild](https://samuelarminana.com/index.php/2019/07/18/releasing-your-buggy-code-to-the-wild/)
-- [Beginning a New Project With a Team RIGHT](https://samuelarminana.com/index.php/2019/07/06/beginning-a-new-project-with-a-team-right/)
+- [Installing Unreal Engine on Linux](https://medium.com/@gabeasay/installing-unreal-engine-on-linux-f764de288b37)
+- [Implementing Aggressive Enemy Behavior](https://medium.com/@gabeasay/implementing-new-features-aggressive-enemy-95440e5bab3f)
+- [Balanced Spawn System](https://medium.com/@gabeasay/implementing-new-features-balanced-spawning-947b0dc6e6a5)
+- [Creating A Wave System](https://medium.com/@gabeasay/implementing-new-features-wave-system-746f04733075)
+- [Post Processing in Unity](https://medium.com/towardsdev/bring-your-game-to-aaa-status-through-post-processing-87a61fb3e6b7)
 <!-- BLOG-POST-LIST:END -->
 View more on my [dev blog](https://medium.com/@gabeasay)
 
