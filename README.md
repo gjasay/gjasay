@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer who's main focus over the last 7 years involved using Unity and C# daily. My main priority is providing a unique and memorable experience for my users.
+I'm Gabe and I'm passionate about developing fast-paced, action-packed experiences with a strong interest in multiplayer, both cooperative and competitive. Check out some of my work below and reach out to say hi!
 
 [<img align="left" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Youtube-512.png"/>Youtube](https://www.youtube.com/channel/UCQNi86EZ55UtBWjI0VCxuhw)
 
@@ -17,6 +17,12 @@ I'm a software engineer who's main focus over the last 7 years involved using Un
 - [Beginning a New Project With a Team RIGHT](https://samuelarminana.com/index.php/2019/07/06/beginning-a-new-project-with-a-team-right/)
 <!-- BLOG-POST-LIST:END -->
 View more on my [website](https://samuelarminana.com/index.php/blog/)
+
+### Languages and Tools:
+
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+
 
 ---
 ### 💾 My projects
@@ -64,52 +70,4 @@ I interned at EA Sports in Orlando, FL for Summer 2019.
 <br/>
 
 
-<img src="https://samuelarminana.com/wp-content/uploads/2019/09/home.png" align="left" width="400px"/> 
-
-# Gamedev HQ Filebase
-Filebase is a Unity Editor Extension that integrate’s GameDevHQ’s asset store into Unity. Pro GameDevHQ members are able to download and manage their assets all from one place. 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-<img src="https://samuelarminana.com/wp-content/uploads/2018/11/4-1.jpg" align="left" width="400px"/> 
-
-# Junior League Sports
-Play three different sports all in one! Basketball, Hockey, and Soccer! Fully customizable teams and challenging enemies. Play with up to 2 players.
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-<img src="https://samuelarminana.com/wp-content/uploads/2018/11/3.png" align="left" width="400px"/> 
-
-# Night Bear
-Night Bear is a 2D game that puts you in the shoes of a teddy bear with the one job of defending his child from the monster of the night.<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<img src="https://samuelarminana.com/wp-content/uploads/2018/11/ss_205e2ce531240570866bf64c08f0f0ee4889d1dc.600x338.jpg" align="left" width="400px"/> 
-
-# Cave Brawlers
-Cave Brawlers is a 2d pixel action adventure game about a knight of a kingdom who has to rescue villagers from Cave Dwellers after a siege. Comedic story based game.<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-View more on my [website](https://samuelarminana.com/index.php/blog/)
+View more on my [website](https://gabeasay.dev)
