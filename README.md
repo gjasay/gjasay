@@ -42,7 +42,7 @@ I was the lead Unity Developer.
 <br/>
 
 
-<img src="https://samuelarminana.com/wp-content/uploads/2021/03/Walking.jpg" align="left" width="400px"/> 
+<img src="https://www.gabeasay.dev/images/youre_fired.png" align="left" width="400px"/> 
 
 # Demonware
 My creation for Ludum Dare 55. As the team lead and programmer, I guided our efforts, utilizing TypeScript and Phaser to build our game. It was an exciting and challenging experience, filled with collaboration, creativity, and the thrill of creating something remarkable within a short timeframe.
