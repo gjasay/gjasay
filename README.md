@@ -27,9 +27,9 @@ View more on my [dev blog](https://medium.com/@gabeasay)
 
 
 
-<img src="http://samuelarminana.com/u/118ea36a1-2c07-46c8-8e3d-f8a49e0da4a8.png" align="left" width="400px"/> 
+<img src="https://www.gabeasay.dev/images/wasteland-wander2.png" align="left" width="400px"/> 
 
-# Boddle
+# Wasteland Wander
 Boddle is an interactive 3D math game that gets kids excited and motivated to learn and practice math! 
 <br/>
 <br/>
