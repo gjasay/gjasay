@@ -2,11 +2,9 @@
 
 I'm Gabe and I'm passionate about developing fast-paced, action-packed experiences with a strong interest in multiplayer, both cooperative and competitive. Check out some of my work below and reach out to say hi!
 
-[<img align="left" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Youtube-512.png"/>Youtube](https://www.youtube.com/channel/UCQNi86EZ55UtBWjI0VCxuhw)
+[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>Linkedin](https://www.linkedin.com/in/gabriel-asay/)
 
-[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>Linkedin](https://www.linkedin.com/in/samuelarm/)
-
-[<img align="left" width="22px" src="http://samuelarminana.com/favicon.ico"/>Website/Resume](https://samuelarminana.com/)
+[<img align="left" width="22px" src="http://samuelarminana.com/favicon.ico"/>Website/Resume](https://www.gabeasay.dev/)
 
 ### 📝 Check out my latest blog posts,
 <!-- BLOG-POST-LIST:START -->
@@ -16,7 +14,7 @@ I'm Gabe and I'm passionate about developing fast-paced, action-packed experienc
 - [Releasing your Buggy Code to the Wild](https://samuelarminana.com/index.php/2019/07/18/releasing-your-buggy-code-to-the-wild/)
 - [Beginning a New Project With a Team RIGHT](https://samuelarminana.com/index.php/2019/07/06/beginning-a-new-project-with-a-team-right/)
 <!-- BLOG-POST-LIST:END -->
-View more on my [website](https://samuelarminana.com/index.php/blog/)
+View more on my [dev blog](https://medium.com/@gabeasay)
 
 ### Languages and Tools:
 
