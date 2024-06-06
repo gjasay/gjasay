@@ -30,10 +30,10 @@ View more on my [dev blog](https://medium.com/@gabeasay)
 <img src="https://www.gabeasay.dev/images/wasteland-wander2.png" align="left" width="400px"/> 
 
 # Wasteland Wander
-Boddle is an interactive 3D math game that gets kids excited and motivated to learn and practice math! 
+My 2d shooter project developed with Unity and C#. It's an adrenaline-fueled top-down shooter set in a desert wasteland. Take control of your vehicle, battle enemy rovers and drones with many different abilities. 
 <br/>
 <br/>
-I am currently working here as a Senior Unity Developer.
+I was the lead Unity Developer.
 <br/>
 <br/>
 <br/>
