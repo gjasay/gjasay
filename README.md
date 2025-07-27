@@ -1,20 +1,10 @@
 ### Hi there 👋
 
-I'm Gabe and I'm passionate about developing fast-paced, action-packed experiences with a strong interest in multiplayer, both cooperative and competitive. Check out some of my work below and reach out to say hi!
+I'm Gabe and I enjoy making video games. Recently I've been learning more about engine development and I have a passion for multiplayer games.
 
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>Linkedin](https://www.linkedin.com/in/gabriel-asay/)
 
-[<img align="left" width="22px" src="http://samuelarminana.com/favicon.ico"/>Website/Resume](https://www.gabeasay.dev/)
-
-### 📝 Check out my latest blog posts,
-<!-- BLOG-POST-LIST:START -->
-- [Installing Unreal Engine on Linux](https://medium.com/@gabeasay/installing-unreal-engine-on-linux-f764de288b37)
-- [Implementing Aggressive Enemy Behavior](https://medium.com/@gabeasay/implementing-new-features-aggressive-enemy-95440e5bab3f)
-- [Balanced Spawn System](https://medium.com/@gabeasay/implementing-new-features-balanced-spawning-947b0dc6e6a5)
-- [Creating A Wave System](https://medium.com/@gabeasay/implementing-new-features-wave-system-746f04733075)
-- [Post Processing in Unity](https://medium.com/towardsdev/bring-your-game-to-aaa-status-through-post-processing-87a61fb3e6b7)
-<!-- BLOG-POST-LIST:END -->
-View more on my [dev blog](https://medium.com/@gabeasay)
+[<img align="left" width="22px" src="http://samuelarminana.com/favicon.ico"/>Portfolio](https://www.gabeasay.dev/)
 
 ### Languages and Tools:
 
@@ -24,23 +14,6 @@ View more on my [dev blog](https://medium.com/@gabeasay)
 
 ---
 ### 💾 My projects
-
-
-
-<img src="https://www.gabeasay.dev/images/wasteland-wander2.png" align="left" width="400px"/> 
-
-# Wasteland Wander
-My 2d shooter project developed with Unity and C#. It's an adrenaline-fueled top-down shooter set in a desert wasteland. Take control of your vehicle, battle enemy rovers and drones with many different abilities. 
-<br/>
-<br/>
-I was the lead Unity Developer.
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 
 <img src="https://www.gabeasay.dev/images/youre_fired.png" align="left" width="400px"/> 
 
@@ -54,19 +27,4 @@ Development Lead.
 <br/>
 <br/>
 
-
-<img src="https://www.gabeasay.dev/images/murphy1.png" align="left" width="400px"/> 
-
-# Murphy's Madness
-I made this game in 72 hours for Global Game Jam 2024.
-
-<br/>
-<br/>
-Collaborted with engineers and designers.
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-View more on my [website](https://gabeasay.dev)
+View more on my [portfolio](https://gabeasay.dev)
